@@ -13,15 +13,17 @@ text messages through a series of services, each performing a specific task. The
 
 ### Event-Driven System
 
-Success: 
-https://github.com/dantetemplar/homework-message-brokers/blob/main/successful-message.mp4
+**Success:**
 
-Rejected:
-https://github.com/dantetemplar/homework-message-brokers/blob/main/rejected-message.mp4
+https://github.com/user-attachments/assets/1bff2e6c-4880-4dba-bbcb-073c54c95805
+
+**Rejected:**
+
+https://github.com/user-attachments/assets/22ed49db-3c5c-408c-929c-5cdb71ef853c
 
 ### Pipes-and-Filters
 
-https://github.com/dantetemplar/homework-message-brokers/blob/main/pipes-n-filters.mp4
+https://github.com/user-attachments/assets/8a0615b8-84c6-4777-b2fd-ff279e936863
 
 ## System Architecture
 
