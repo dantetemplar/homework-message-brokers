@@ -9,6 +9,20 @@ text messages through a series of services, each performing a specific task. The
 3. **SCREAMING Service**: Converts messages to uppercase.
 4. **Emailing Service**: Sends emails to a specified mailing list with the processed message.
 
+## Demo
+
+### Event-Driven System
+
+Success: 
+https://github.com/dantetemplar/homework-message-brokers/blob/main/successful-message.mp4
+
+Rejected:
+https://github.com/dantetemplar/homework-message-brokers/blob/main/rejected-message.mp4
+
+### Pipes-and-Filters
+
+https://github.com/dantetemplar/homework-message-brokers/blob/main/pipes-n-filters.mp4
+
 ## System Architecture
 
 The system follows a broker topology with RabbitMQ handling message passing between services. The services are designed
